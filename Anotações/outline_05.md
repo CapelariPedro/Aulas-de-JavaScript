@@ -56,5 +56,13 @@ Aula 5 (Node.js-API-localhost:3000):
                 15.cod .
             No terminal do VScode
                 16.npm start
+
+            Para reiniciar o servidor: 
+                Abra no vscode a pasta backend:
+                    No terminal do vscode:
+                        1.npm run dev
+                Abra no vscode a pasta frontend/app
+                    No terminal do vscode:
+                        2.npm start
         
 
